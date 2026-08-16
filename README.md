@@ -12,6 +12,9 @@ including leave balance checking and manager approval.
 ## Scenario 2
 Online Purchase Order Processing
 
+<img width="856" height="701" alt="image" src="https://github.com/user-attachments/assets/3fb7e4ff-90ba-4360-84ba-a7ede4c1a4a0" />
+
+
 BPMN model covering product availability,
 payment processing, order preparation and shipping.
 
